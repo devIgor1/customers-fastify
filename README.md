@@ -1,5 +1,5 @@
 
-# Cadastrado, Remoção de Clientes 
+# Listagem, Cadastro e Remoção de Clientes 
 
 
 Um projeto com a finalidade de entender os conceitos do framework Fastify do NodeJS e conexão com o MongoDB utilizando Prisma. 
